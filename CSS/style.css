@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:beige;
+    font-family:'poppins', serif;
+}
+h1{
+    background-color: blue;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+}
+img{
+    border-radius: 10px;
+}
